@@ -12,6 +12,6 @@ public class Dispatcher {
     }
 
     public int get_wait_time() {
-        return n_threads;
+        return wait_time;
     }
 }
